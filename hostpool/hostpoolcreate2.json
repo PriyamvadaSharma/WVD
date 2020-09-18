@@ -29,7 +29,7 @@
       "metadata": {
         "description": "The friendly name of the Hostpool to be created."
       },
-      "defaultValue": "null"
+      "defaultValue": "hspl"
     },
     "hostpoolDescription": {
       "type": "string",
